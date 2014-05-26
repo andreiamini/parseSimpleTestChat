@@ -2,8 +2,8 @@
 //  chatCell.m
 //  chatDemo
 //
-//  Created by David Mendels on 4/14/12.
-//  Copyright (c) 2012 Cognoscens. All rights reserved.
+//  Created by Liza Amini on 26/05/14.
+//  Copyright (c) 2014 Liza Amini Development. All rights reserved.
 //
 
 #import "chatCell.h"
